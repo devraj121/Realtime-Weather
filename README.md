@@ -1,3 +1,5 @@
+This website is hoted using Netlify. Link-> https://realtimeweatherforecast.netlify.app/
+
 A simple and efficient weather application built using JavaScript, HTML, and CSS. It allows users to search for a city and get real-time weather information.
 
 Key Features:
@@ -12,7 +14,7 @@ How to Use:
 Clone the Repository:
 Bash
 git clone https://github.com/your-username/weather-app.git
-Use code with caution.
+
 
 Open in Browser: Open the index.html file in your web browser.
 Search for a City: Enter the desired city name in the search bar and click the "Search" button.
